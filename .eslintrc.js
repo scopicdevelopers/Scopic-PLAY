@@ -18,6 +18,7 @@ module.exports = {
 		'eslint:recommended',
 		'plugin:@wordpress/eslint-plugin/recommended',
 		'plugin:react/recommended',
+		'plugin:react-joyride'
 	],
 	overrides: [],
 	parserOptions: {
