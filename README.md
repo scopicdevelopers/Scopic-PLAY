@@ -1,14 +1,14 @@
-# WordPress Playground
+# Scopic PLAY
 
 [Project Page](https://developer.wordpress.org/playground/) | [Live demo](https://wasm.wordpress.net/wordpress.html) | [Documentation and API Reference](https://wordpresswasm.readthedocs.io/en/latest/) 
 
-[WordPress Playground](https://github.com/WordPress/wordpress-playground) is an experimental in-browser WordPress that runs without a PHP server thanks to the magic of WebAssembly.
+[Scopic PLAY](https://github.com/WordPress/wordpress-playground) is an experimental in-browser WordPress that runs without a PHP server thanks to the magic of WebAssembly.
 
 ![](https://raw.githubusercontent.com/wordpress/wordpress-playground/trunk/demo.png)
 
-## Why is WordPress Playground useful?
+## Why is Scopic PLAY useful?
 
-WordPress Playground is a building block that can power apps like:
+Scopic PLAY is a building block that can power apps like:
 
 -   Runnable code snippets in your documentation or course
 -   Plugin and theme demos in a private WordPress instance where the user is already logged in as an admin
