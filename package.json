@@ -10,7 +10,6 @@
     "dev:js": "node esbuild.js --watch",
     "dev:types": "npm-run-all --parallel 'build:types:* -- --watch'",
     "dev:docs:html": "vitepress dev docs/api",
-    "build": "vitepress build --output public"
     "build": "gulp buildJS",
     "build:all": "npm run clean; gulp buildAll",
     "build:js": "gulp buildJS",
